@@ -2,6 +2,8 @@
  
 **Mi nombre es Paula Vito**
 
-Diseñadora UX/UI
-Web Developer
-Diseñadora de Indumentaria
+-Diseñadora UX/UI
+
+-Web Developer
+
+-Diseñadora de Indumentaria
